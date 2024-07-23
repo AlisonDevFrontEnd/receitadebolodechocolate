@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: 'Trebuchet MS', sans-serif;
-  margin: auto;
+  margin: 0;
   padding: 0.5rem;
 }
 
